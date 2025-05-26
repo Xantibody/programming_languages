@@ -3,6 +3,6 @@
 cc ${FILE_PATH}
 ```
 
-$```bash
+```bash
 ./${OUTPUT_BINARY}
 ```
