@@ -1,0 +1,122 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "ghc@9.8.4": {
+      "last_modified": "2025-05-16T20:19:48Z",
+      "plugin_version": "0.0.2",
+      "resolved": "github:NixOS/nixpkgs/12a55407652e04dcf2309436eb06fef0d3713ef3#ghc",
+      "source": "devbox-search",
+      "version": "9.8.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q2nn3dq8nyxaqngmy2s9klb2qiyzfxfx-ghc-9.8.4",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/j0jmicdz3vz1x7lqnqlnb9xyjyyj3l8r-ghc-9.8.4-doc"
+            }
+          ],
+          "store_path": "/nix/store/q2nn3dq8nyxaqngmy2s9klb2qiyzfxfx-ghc-9.8.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8zlpfix1alzddn6n0p8mbz9mfwqmrykx-ghc-9.8.4",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/kaxsrsi8vzv70pdwwbc7wxf2166n20mc-ghc-9.8.4-doc"
+            }
+          ],
+          "store_path": "/nix/store/8zlpfix1alzddn6n0p8mbz9mfwqmrykx-ghc-9.8.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dhkrbp746d68jmrbsvrza1z3mazjlc7y-ghc-9.8.4",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/yjjqy37zcmapfi34mhl27n8429lmj39b-ghc-9.8.4-doc"
+            }
+          ],
+          "store_path": "/nix/store/dhkrbp746d68jmrbsvrza1z3mazjlc7y-ghc-9.8.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xmvlqc3f0sfij7083klg3z6i4yr4rvsz-ghc-9.8.4",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/xrcqd5qg7fp6mqg3qzlznhs8xggx76yc-ghc-9.8.4-doc"
+            }
+          ],
+          "store_path": "/nix/store/xmvlqc3f0sfij7083klg3z6i4yr4rvsz-ghc-9.8.4"
+        }
+      }
+    },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-05-07T00:09:58Z",
+      "resolved": "github:NixOS/nixpkgs/b3582c75c7f21ce0b429898980eddbbf05c68e55?lastModified=1746576598&narHash=sha256-FshoQvr6Aor5SnORVvh%2FZdJ1Sa2U4ZrIMwKBX5k2wu0%3D"
+    },
+    "haskell-language-server@2.10.0.0": {
+      "last_modified": "2025-05-16T20:19:48Z",
+      "resolved": "github:NixOS/nixpkgs/12a55407652e04dcf2309436eb06fef0d3713ef3#haskell-language-server",
+      "source": "devbox-search",
+      "version": "2.10.0.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v9f83bwbik2v4jxlgch0hj3ihd15sv7s-haskell-language-server-2.10.0.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/v9f83bwbik2v4jxlgch0hj3ihd15sv7s-haskell-language-server-2.10.0.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gfrz1zvvgxh0i470kjqhx0qgrv3kxld6-haskell-language-server-2.10.0.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gfrz1zvvgxh0i470kjqhx0qgrv3kxld6-haskell-language-server-2.10.0.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hbrimigfwqnf9r7v7bky2ijqki19h5li-haskell-language-server-2.10.0.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hbrimigfwqnf9r7v7bky2ijqki19h5li-haskell-language-server-2.10.0.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3b3kmncqva75f454ri7h4d7f4n612wvf-haskell-language-server-2.10.0.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3b3kmncqva75f454ri7h4d7f4n612wvf-haskell-language-server-2.10.0.0"
+        }
+      }
+    }
+  }
+}
